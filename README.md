@@ -8,3 +8,11 @@ Journaling my daily progress.
 - Did the setup for Leetcode.
 - Studied the basics of time and space complexities.
 - Practiced problems from the Arrays 101 track of Leetcode.
+
+## Day 2:
+
+- Practiced problems on arrays:
+  - Reverse String
+  - Two Sum
+  - Move Zeroes
+  - Contains Duplicate
