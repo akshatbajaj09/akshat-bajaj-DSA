@@ -16,3 +16,8 @@ Journaling my daily progress.
   - Two Sum
   - Move Zeroes
   - Contains Duplicate
+
+## Day 3:
+
+- Practiced problem on array:
+  - Duplicate Zeros
