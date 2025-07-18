@@ -21,3 +21,10 @@ Journaling my daily progress.
 
 - Practiced problem on array:
   - Duplicate Zeros
+
+## Day 4:
+
+- Solved 3 more questions:
+  - Richest Customer Wealth
+  - Merge Sorted Array
+  - Remove Element (approach was similar to the one in Move Zeroes).
