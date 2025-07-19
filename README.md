@@ -28,3 +28,10 @@ Journaling my daily progress.
   - Richest Customer Wealth
   - Merge Sorted Array
   - Remove Element (approach was similar to the one in Move Zeroes).
+
+## Day 5:
+
+- Solved the following problems:
+  - Intersection of Two Arrays
+  - First Unique Character in a String
+- Summed up my learnings on different ways to swap two numbers in a single file.
