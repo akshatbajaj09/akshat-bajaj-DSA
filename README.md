@@ -35,3 +35,13 @@ Journaling my daily progress.
   - Intersection of Two Arrays
   - First Unique Character in a String
 - Summed up my learnings on different ways to swap two numbers in a single file.
+
+## Day 6:
+
+- Solved the following probelms:
+  - Fizz Buzz
+  - Count Odd Numbers in an Interval Range
+  - How Many Numbers Are Smaller Than the Current Number
+  - Count the Digits That Divide a Number
+  - Palindrome Number
+  - Subtract the Product and Sum of Digits of an Integer
