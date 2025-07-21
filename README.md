@@ -45,3 +45,8 @@ Journaling my daily progress.
   - Count the Digits That Divide a Number
   - Palindrome Number
   - Subtract the Product and Sum of Digits of an Integer
+
+## Day 7:
+
+- Solved the following problem:
+  - Kids With the Greatest Number of Candies
