@@ -50,3 +50,9 @@ Journaling my daily progress.
 
 - Solved the following problem:
   - Kids With the Greatest Number of Candies
+
+## Day 8:
+
+- Solved the following problems:
+  - N-th Tribonacci Number
+  - Power of Two
