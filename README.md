@@ -56,3 +56,8 @@ Journaling my daily progress.
 - Solved the following problems:
   - N-th Tribonacci Number
   - Power of Two
+
+## Day 9:
+
+- Solved my first medium-level problem:
+  - Pow(x, n)
