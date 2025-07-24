@@ -61,3 +61,9 @@ Journaling my daily progress.
 
 - Solved my first medium-level problem:
   - Pow(x, n)
+
+## Day 10:
+
+- Solved the following problems:
+  - Running Sum of 1d Array
+  - Remove Duplicates from Sorted Array
