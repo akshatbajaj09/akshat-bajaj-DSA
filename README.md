@@ -67,3 +67,8 @@ Journaling my daily progress.
 - Solved the following problems:
   - Running Sum of 1d Array
   - Remove Duplicates from Sorted Array
+
+## Day 11:
+
+- Solved the following problem:
+  - Defanging an IP Address
