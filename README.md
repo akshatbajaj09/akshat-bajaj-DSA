@@ -72,3 +72,8 @@ Journaling my daily progress.
 
 - Solved the following problem:
   - Defanging an IP Address
+
+## Day 12:
+
+- Solved the following problem:
+  - Valid Anagram
