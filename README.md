@@ -77,3 +77,8 @@ Journaling my daily progress.
 
 - Solved the following problem:
   - Valid Anagram
+
+## Day 13:
+
+- Solved the following problem:
+  - Remove Duplicates from Sorted Array II
