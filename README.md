@@ -82,3 +82,9 @@ Journaling my daily progress.
 
 - Solved the following problem:
   - Remove Duplicates from Sorted Array II
+
+## Day 14:
+
+- Solved the following problems:
+  - Sort Array By Parity
+  - Maximum Subarray
