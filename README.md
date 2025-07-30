@@ -95,3 +95,8 @@ Journaling my daily progress.
   - Best Time to Buy and Sell Stock
   - Best Time to Buy and Sell Stock II
   - Concatenation of Array
+
+## Day 16:
+
+- Solved the following problem:
+  - Valid Palindrome
