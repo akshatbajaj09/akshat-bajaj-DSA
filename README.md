@@ -105,3 +105,9 @@ Journaling my daily progress.
 
 - Solved the following problem:
   - Spiral Matrix
+
+## Day 18:
+
+- Solved the following problem:
+  - Longest Substring Without Repeating Characters
+  - Substrings of Size Three with Distinct Characters
