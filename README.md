@@ -111,3 +111,14 @@ Journaling my daily progress.
 - Solved the following problem:
   - Longest Substring Without Repeating Characters
   - Substrings of Size Three with Distinct Characters
+
+## Day 19:
+
+- Solved the following problem:
+  - Two Sum II - Input Array Is Sorted
+
+- Revised the following problems:
+  - Concatenation of Array
+  - Contains Duplicate
+  - Valid Anagram
+  - Two Sum
