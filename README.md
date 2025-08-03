@@ -122,3 +122,9 @@ Journaling my daily progress.
   - Contains Duplicate
   - Valid Anagram
   - Two Sum
+
+## Day 20:
+
+- Solved the following problem:
+  - Group Anagrams
+ 
