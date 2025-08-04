@@ -128,3 +128,7 @@ Journaling my daily progress.
 - Solved the following problem:
   - Group Anagrams
  
+## Day 21:
+
+- Solved the following problem:
+  - Fruit Into Baskets
