@@ -132,3 +132,8 @@ Journaling my daily progress.
 
 - Solved the following problem:
   - Fruit Into Baskets
+
+## Day 22:
+
+- Solved the following problem:
+  - Majority Element
