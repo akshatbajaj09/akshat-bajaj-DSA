@@ -137,3 +137,8 @@ Journaling my daily progress.
 
 - Solved the following problem:
   - Majority Element
+
+## Day 23:
+
+- Solved the following problem:
+  - Longest Common Prefix
