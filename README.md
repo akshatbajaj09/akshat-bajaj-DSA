@@ -142,3 +142,10 @@ Journaling my daily progress.
 
 - Solved the following problem:
   - Longest Common Prefix
+
+## Day 24:
+
+- Tried the following problem:
+  - Sort an Array
+  - Learnt 3 sorting algorithms: Bubble sort, Insertion sort and Selection sort.
+All of them had these had the time complexity of O(n^2) but the question demanded O(nlogn) and hence I was not able to solve it but I will try again later.
