@@ -149,3 +149,11 @@ Journaling my daily progress.
   - Sort an Array
   - Learnt 3 sorting algorithms: Bubble sort, Insertion sort and Selection sort.
 All of them had these had the time complexity of O(n^2) but the question demanded O(nlogn) and hence I was not able to solve it but I will try again later.
+
+## Day 25:
+
+- Learnt two new sorting algorithms:
+  - Merge Sort
+  - Quick Sort
+- Solved the following problem:
+  - Sort an Array (used merge sort to satisfy O(nlogn)).
