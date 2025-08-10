@@ -161,4 +161,9 @@ All of them had these had the time complexity of O(n^2) but the question demande
 ## Day 26:
 
 - Revised old problems.
-- Found similarity in the logic of Move Zeroes, Remove Element, Remove Duplicates from Sorted Array, and Remove Duplicates from Sorted Array II. All of these can be solved using a 2 pointer approach which shifts the unwanted elements to the right.
+- Observed similarity in the logic of Move Zeroes, Remove Element, Remove Duplicates from Sorted Array, Remove Duplicates from Sorted Array II, and Sort Array By Parity.
+
+## Day 27:
+
+- Revised old problems.
+- Reviewed the other method for Remove Duplicates from Sorted Array II.
