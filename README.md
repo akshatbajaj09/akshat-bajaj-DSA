@@ -167,3 +167,8 @@ All of them had these had the time complexity of O(n^2) but the question demande
 
 - Revised old problems.
 - Reviewed the other method for Remove Duplicates from Sorted Array II.
+
+## Day 28:
+
+- Revised old problems.  
+  (No new code was written, hence no separate folder for Day28.)
