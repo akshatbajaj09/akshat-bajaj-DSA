@@ -172,3 +172,14 @@ All of them had these had the time complexity of O(n^2) but the question demande
 
 - Revised old problems.  
   (No new code was written, hence no separate folder for Day28.)
+
+## Day 29:
+
+- Learnt about a new algorithm: Boyer–Moore Majority Vote Algorithm.
+- Solved the problem of Majority Element using 4 different approaches:
+  - Hashing
+  - Recursion
+  - Boyer–Moore Majority Vote Algorithm
+  - Sorting
+- Revised other old problems too.  
+
