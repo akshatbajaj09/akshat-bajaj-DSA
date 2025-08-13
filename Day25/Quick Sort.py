@@ -1,6 +1,6 @@
 def quickSort(nums, left, right):
     # Base case:
-    if left >= right:
+    if left == right:
         return
     # Recursive case:
     p = partition(nums, left, right)

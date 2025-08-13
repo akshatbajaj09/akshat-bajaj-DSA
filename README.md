@@ -183,3 +183,7 @@ All of them had these had the time complexity of O(n^2) but the question demande
   - Sorting
 - Revised other old problems too.  
 
+## Day 30:
+
+- Revised all the sorting algorithms done till now and made a summary file for them. 
+
