@@ -187,3 +187,16 @@ All of them had these had the time complexity of O(n^2) but the question demande
 
 - Revised all the sorting algorithms done till now and made a summary file for them. 
 
+## Day 31:
+
+- Solved the problem of Sort Colors using the following methods:
+  - Bubble Sort
+  - Insertion Sort
+  - Selection Sort
+  - Quick Sort
+  - Two pointers
+- Learnt about a new sorting algorithm: Counting Sort.
+- Explored the following classifications of sorting algorithms:
+  - On the basis of stability: Stable vs Unstable.
+  - On the basis of adaptability: Adaptive vs Non-adaptive.
+  - On the basis of memory allocation: In-place vs Non in-place.
