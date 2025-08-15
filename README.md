@@ -200,3 +200,9 @@ All of them had these had the time complexity of O(n^2) but the question demande
   - On the basis of stability: Stable vs Unstable.
   - On the basis of adaptability: Adaptive vs Non-adaptive.
   - On the basis of memory allocation: In-place vs Non in-place.
+
+## Day 32:
+
+- Learnt the implementation of Counting Sort for an array including negative integers too.
+- Solved the problem of Sort an Array using Counting Sort.
+- Solved the problem of Merge Sorted Array using a 2 pointers approach.
