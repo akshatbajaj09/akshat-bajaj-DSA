@@ -206,3 +206,10 @@ All of them had these had the time complexity of O(n^2) but the question demande
 - Learnt the implementation of Counting Sort for an array including negative integers too.
 - Solved the problem of Sort an Array using Counting Sort.
 - Solved the problem of Merge Sorted Array using a 2 pointers approach.
+
+# Day 33:
+
+- Explored 2 Searching Algorithms: Linear Search and Binary search.
+- Solved the following problems:
+  - Binary Search
+  - Search Insert Position
