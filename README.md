@@ -207,9 +207,16 @@ All of them had these had the time complexity of O(n^2) but the question demande
 - Solved the problem of Sort an Array using Counting Sort.
 - Solved the problem of Merge Sorted Array using a 2 pointers approach.
 
-# Day 33:
+## Day 33:
 
 - Explored 2 Searching Algorithms: Linear Search and Binary search.
 - Solved the following problems:
   - Binary Search
   - Search Insert Position
+
+## Day 34:
+
+- Solved the following problems:
+  - Find First and Last Position of Element in Sorted Array
+  - Peak Index in a Mountain Array
+  - Search in Rotated Sorted Array
