@@ -220,3 +220,11 @@ All of them had these had the time complexity of O(n^2) but the question demande
   - Find First and Last Position of Element in Sorted Array
   - Peak Index in a Mountain Array
   - Search in Rotated Sorted Array
+
+## Day 35:
+
+- Solved the following problem:
+  - Sqrt(x)
+- Tried the following problem:
+  - Koko Eating Bananas
+  - This solution to this problem is functionally correct for Linear Search but isn't optimized for a better time complexity and hence a better alternative would be to use Binary Search. That would be worked on later.
