@@ -228,3 +228,10 @@ All of them had these had the time complexity of O(n^2) but the question demande
 - Tried the following problem:
   - Koko Eating Bananas
   - This solution to this problem is functionally correct for Linear Search but isn't optimized for a better time complexity and hence a better alternative would be to use Binary Search. That would be worked on later.
+
+## Day 36:
+
+- Optimized the following problem:
+  - Koko Eating Bananas (using Binary Search)
+- Solved the following problem:
+  - Search a 2D Matrix
