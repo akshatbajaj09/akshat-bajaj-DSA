@@ -235,3 +235,7 @@ All of them had these had the time complexity of O(n^2) but the question demande
   - Koko Eating Bananas (using Binary Search)
 - Solved the following problem:
   - Search a 2D Matrix
+
+## Day 37:
+- Implemented random module to get a random problem out of the solved ones.
+- Revised the chosen problem (Concatenation of Array).
