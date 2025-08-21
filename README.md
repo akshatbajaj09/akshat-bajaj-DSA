@@ -237,5 +237,18 @@ All of them had these had the time complexity of O(n^2) but the question demande
   - Search a 2D Matrix
 
 ## Day 37:
+
 - Implemented random module to get a random problem out of the solved ones.
 - Revised the chosen problem (Concatenation of Array).
+
+## Day 38:
+
+- Revised some basics of OOP.
+- Learnt about basics of Linked List.
+- Learnt the different types of Linked lists: Singly Linked List, Doubly Linked List and Circular Linked List.
+- Learnt about basic operations like traversing in a Linked List, inserting elements in a Linked List and removing elements from a Linked List.
+- Explored the concept of fast and slow pointers.
+- Solved the following problems:
+  - Middle of the Linked List
+  - Delete Node in a Linked List
+  - 19. Remove Nth Node From End of List
