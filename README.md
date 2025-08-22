@@ -251,4 +251,12 @@ All of them had these had the time complexity of O(n^2) but the question demande
 - Solved the following problems:
   - Middle of the Linked List
   - Delete Node in a Linked List
-  - 19. Remove Nth Node From End of List
+  - Remove Nth Node From End of List
+
+## Day 39:
+- Optimized the following problem:
+  - Remove Nth Node From End of List
+- Solved the following problem:
+  - Remove Duplicates from Sorted List
+- Tried the problem:
+  - Remove Duplicates from Sorted List II
