@@ -260,3 +260,9 @@ All of them had these had the time complexity of O(n^2) but the question demande
   - Remove Duplicates from Sorted List
 - Tried the problem:
   - Remove Duplicates from Sorted List II
+
+## Day 40:
+
+- Solved the following problem:
+  - Remove Duplicates from Sorted List II
+  - Reverse Linked List
