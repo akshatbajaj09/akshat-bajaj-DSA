@@ -263,6 +263,12 @@ All of them had these had the time complexity of O(n^2) but the question demande
 
 ## Day 40:
 
-- Solved the following problem:
+- Solved the following problems:
   - Remove Duplicates from Sorted List II
   - Reverse Linked List
+
+## Day 41:
+
+- Solved the following problems:
+  - Reverse Linked List (using Recursion)
+  - Palindrome Linked List
