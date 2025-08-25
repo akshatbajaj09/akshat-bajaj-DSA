@@ -272,3 +272,11 @@ All of them had these had the time complexity of O(n^2) but the question demande
 - Solved the following problems:
   - Reverse Linked List (using Recursion)
   - Palindrome Linked List
+
+## Day 42:
+
+- Solved the following problems:
+  - Reverse Linked List II
+  - Rotate List, using two approaches: 
+    - The Ring Method 
+    - The Three-Reversal Algorithm
