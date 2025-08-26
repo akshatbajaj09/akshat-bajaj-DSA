@@ -280,3 +280,8 @@ All of them had these had the time complexity of O(n^2) but the question demande
   - Rotate List, using two approaches: 
     - The Ring Method 
     - The Three-Reversal Algorithm
+
+## Day 43:
+
+- Solved the following problem:
+  - Intersection of Two Linked Lists
