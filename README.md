@@ -285,3 +285,10 @@ All of them had these had the time complexity of O(n^2) but the question demande
 
 - Solved the following problem:
   - Intersection of Two Linked Lists
+
+## Day 44:
+
+- Solved the following problems:
+  - Intersection of Two Linked Lists (using more approaches)
+  - Add Two Numbers
+  - Merge Two Sorted Lists
