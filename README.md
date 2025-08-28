@@ -292,3 +292,9 @@ All of them had these had the time complexity of O(n^2) but the question demande
   - Intersection of Two Linked Lists (using more approaches)
   - Add Two Numbers
   - Merge Two Sorted Lists
+
+## Day 45:
+
+- Solved the following problems:
+  - Linked List Cycle (using two different approaches)
+  - Linked List Cycle II (using three different approaches)
