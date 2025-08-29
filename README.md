@@ -298,3 +298,10 @@ All of them had these had the time complexity of O(n^2) but the question demande
 - Solved the following problems:
   - Linked List Cycle (using two different approaches)
   - Linked List Cycle II (using three different approaches)
+
+## Day 46:
+
+- Learnt some basics of Stacks and Queues.
+- Solved the following problems:
+  - Baseball Game
+  - Implement Queue using Stacks
