@@ -305,3 +305,7 @@ All of them had these had the time complexity of O(n^2) but the question demande
 - Solved the following problems:
   - Baseball Game
   - Implement Queue using Stacks
+
+## Day 47:
+
+- Solved the problem of Implement Queue using Stacks from Day 46 again using two more approaches.
