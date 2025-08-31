@@ -309,3 +309,9 @@ All of them had these had the time complexity of O(n^2) but the question demande
 ## Day 47:
 
 - Solved the problem of Implement Queue using Stacks from Day 46 again using two more approaches.
+
+## Day 48:
+
+- Solved the following problems:
+  - Implement Stack using Queues
+  - Valid Parentheses
