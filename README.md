@@ -315,3 +315,9 @@ All of them had these had the time complexity of O(n^2) but the question demande
 - Solved the following problems:
   - Implement Stack using Queues
   - Valid Parentheses
+
+## Day 49:
+
+- Solved the following problems:
+  - Backspace String Compare
+  - Next Greater Element I (Needs to be optimized, to be done later)
