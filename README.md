@@ -321,3 +321,10 @@ All of them had these had the time complexity of O(n^2) but the question demande
 - Solved the following problems:
   - Backspace String Compare
   - Next Greater Element I (Needs to be optimized, to be done later)
+
+## Day 50:
+
+- Solved the following problems:
+  - Next Greater Element I (optimized)
+  - Next Greater Element II
+  - Next Greater Element IV
