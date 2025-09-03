@@ -328,3 +328,11 @@ All of them had these had the time complexity of O(n^2) but the question demande
   - Next Greater Element I (optimized)
   - Next Greater Element II
   - Next Greater Element IV
+
+## Day 51:
+
+- Learnt some basics of Binary Trees.
+- Solved the following problems:
+  - Binary Tree Preorder Traversal
+  - Binary Tree Postorder Traversal
+  - Binary Tree Inorder Traversal
