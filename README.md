@@ -336,3 +336,10 @@ All of them had these had the time complexity of O(n^2) but the question demande
   - Binary Tree Preorder Traversal
   - Binary Tree Postorder Traversal
   - Binary Tree Inorder Traversal
+
+## Day 52:
+
+- Solved the following problems again (using stacks):
+  - Binary Tree Preorder Traversal
+  - Binary Tree Postorder Traversal
+  - Binary Tree Inorder Traversal 
