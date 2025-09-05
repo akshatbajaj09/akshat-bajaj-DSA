@@ -343,3 +343,12 @@ All of them had these had the time complexity of O(n^2) but the question demande
   - Binary Tree Preorder Traversal
   - Binary Tree Postorder Traversal
   - Binary Tree Inorder Traversal 
+
+## Day 53:
+
+- Solved the following problems:
+  - Binary Tree Level Order Traversal
+  - Binary Tree Zigzag Level Order Traversal
+  - Binary Tree Level Order Traversal II
+  - Binary Tree Right Side View
+  - Average of Levels in Binary Tree
