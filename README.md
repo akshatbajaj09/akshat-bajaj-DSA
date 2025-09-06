@@ -352,3 +352,11 @@ All of them had these had the time complexity of O(n^2) but the question demande
   - Binary Tree Level Order Traversal II
   - Binary Tree Right Side View
   - Average of Levels in Binary Tree
+
+## Day 54:
+
+- Solved the following problems:
+  - Maximum Depth of Binary Tree
+  - Same Tree
+  - Symmetric Tree
+  - Balanced Binary Tree
