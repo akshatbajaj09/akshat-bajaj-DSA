@@ -360,3 +360,10 @@ All of them had these had the time complexity of O(n^2) but the question demande
   - Same Tree
   - Symmetric Tree
   - Balanced Binary Tree
+
+## Day 55:
+
+- Learnt some basics of Binary Search Tree.
+- Solved the following problems:
+  - Search in a Binary Search Tree
+  - Insert into a Binary Search Tree
