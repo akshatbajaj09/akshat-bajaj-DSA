@@ -367,3 +367,9 @@ All of them had these had the time complexity of O(n^2) but the question demande
 - Solved the following problems:
   - Search in a Binary Search Tree
   - Insert into a Binary Search Tree
+
+## Day 56:
+
+- Solved the following problem:
+  - Delete Node in a BST
+
