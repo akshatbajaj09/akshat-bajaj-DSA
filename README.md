@@ -373,3 +373,9 @@ All of them had these had the time complexity of O(n^2) but the question demande
 - Solved the following problem:
   - Delete Node in a BST
 
+## Day 57:
+
+- Solved the following problems:
+  - Validate Binary Search Tree
+  - Kth Smallest Element in a BST (Using 4 different approaches)
+
