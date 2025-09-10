@@ -379,3 +379,10 @@ All of them had these had the time complexity of O(n^2) but the question demande
   - Validate Binary Search Tree
   - Kth Smallest Element in a BST (Using 4 different approaches)
 
+## Day 58:
+
+- Solved the problem of Kth Smallest Element in a BST again (corrected the brute force approach from Day57.)
+- Learnt some basics of heaps.
+- Solved the following problems:
+  - Kth Largest Element in an Array
+  - Last Stone Weight
