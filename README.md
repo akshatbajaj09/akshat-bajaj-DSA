@@ -386,3 +386,8 @@ All of them had these had the time complexity of O(n^2) but the question demande
 - Solved the following problems:
   - Kth Largest Element in an Array
   - Last Stone Weight
+
+## Day59:
+
+- Solved the following problem:
+  - Lowest Common Ancestor of a Binary Search Tree
