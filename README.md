@@ -391,3 +391,8 @@ All of them had these had the time complexity of O(n^2) but the question demande
 
 - Solved the following problem:
   - Lowest Common Ancestor of a Binary Search Tree
+
+## Day60:
+
+- Optimised the problem of Lowest Common Ancestor of a Binary Search Tree from Day59.
+- Learnt some basics of Graphs.
