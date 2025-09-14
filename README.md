@@ -400,3 +400,10 @@ All of them had these had the time complexity of O(n^2) but the question demande
 ## Day61:
 
 - Tried the problem of Lowest Common Ancestor of a Binary Tree (needs debugging).
+
+## Day62:
+
+- Solved the problem of Lowest Common Ancestor of a Binary Tree using 2 methods.
+- Practiced the following problems on Recursion:
+  - Fibonacci Number
+  - Reverse String
