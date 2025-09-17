@@ -415,3 +415,7 @@ All of them had these had the time complexity of O(n^2) but the question demande
 ## Day64:
 
 - Revised some concepts of Arrays and revisited old problems.
+
+## Day65:
+
+- Revised some old problems on arrays.
