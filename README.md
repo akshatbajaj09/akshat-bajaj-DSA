@@ -425,3 +425,7 @@ All of them had these had the time complexity of O(n^2) but the question demande
 - Revised some old problems of Binary Trees.
 - Solved the following problem:
   - Invert Binary Tree  
+
+## Day67:
+
+- Revised arrays.
