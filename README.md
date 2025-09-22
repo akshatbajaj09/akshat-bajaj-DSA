@@ -438,3 +438,7 @@ All of them had these had the time complexity of O(n^2) but the question demande
 ## Day69:
 
 - Revised Arrays: Revised the problem of Remove Element.
+
+## Day70:
+
+- Tried the problem of Diameter of Binary Tree (incorrect, will be worked on later.)
