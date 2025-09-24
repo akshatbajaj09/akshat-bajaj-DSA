@@ -446,3 +446,7 @@ All of them had these had the time complexity of O(n^2) but the question demande
 ## Day71:
 
 - Revised Arrays: Revised the problem of Majority Element. There are more methods too that need to be reviewed in this problem.
+
+## Day72:
+
+- Solved the problem of Diameter of Binary Tree.
