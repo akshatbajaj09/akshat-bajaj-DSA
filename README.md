@@ -450,3 +450,8 @@ All of them had these had the time complexity of O(n^2) but the question demande
 ## Day72:
 
 - Solved the problem of Diameter of Binary Tree.
+
+## Day73:
+
+- Revised Arrays: Revised the problem of Majority Element (The Boyer Moore's voting algorithm)
+
