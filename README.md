@@ -453,5 +453,8 @@ All of them had these had the time complexity of O(n^2) but the question demande
 
 ## Day73:
 
-- Revised Arrays: Revised the problem of Majority Element (The Boyer Moore's voting algorithm)
+- Revised Arrays: Revised the problem of Majority Element (The Boyer Moore's voting algorithm) 
 
+## Day74: 
+
+- Revised Trees: Revised the problem of Balanced Binary Tree.
