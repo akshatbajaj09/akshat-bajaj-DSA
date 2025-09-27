@@ -458,3 +458,8 @@ All of them had these had the time complexity of O(n^2) but the question demande
 ## Day74: 
 
 - Revised Trees: Revised the problem of Balanced Binary Tree.
+
+## Day75:
+
+- Learnt some basics of Hashing.
+- Solved the problem of Design HashSet.
