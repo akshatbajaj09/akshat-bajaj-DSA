@@ -463,3 +463,7 @@ All of them had these had the time complexity of O(n^2) but the question demande
 
 - Learnt some basics of Hashing.
 - Solved the problem of Design HashSet.
+
+## Day76:
+
+- Revised Trees: Revised the problem of Same Tree.
