@@ -471,3 +471,9 @@ All of them had these had the time complexity of O(n^2) but the question demande
 ## Day77:
 
 - Solved the problem of Design HashSet using another method.
+
+## Day78:
+
+- Understood the concept of load factor and rehashing.
+- Concluded the problem of Design HashSet using 3 approaches.
+- Solved the problem of Subtree of Another Tree
