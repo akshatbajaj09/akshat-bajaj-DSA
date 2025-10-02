@@ -481,3 +481,7 @@ All of them had these had the time complexity of O(n^2) but the question demande
 ## Day79:
 
 - Solved the problem of Design HashMap.
+
+## Day80:
+
+- Revised Trees: Revised the problem of Insert into a Binary Search Tree.
