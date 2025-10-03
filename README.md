@@ -485,3 +485,7 @@ All of them had these had the time complexity of O(n^2) but the question demande
 ## Day80:
 
 - Revised Trees: Revised the problem of Insert into a Binary Search Tree.
+
+## Day81:
+
+- Revised Arrays: Revised the problem of Pow(x, n).
