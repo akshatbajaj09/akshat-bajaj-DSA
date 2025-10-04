@@ -489,3 +489,7 @@ All of them had these had the time complexity of O(n^2) but the question demande
 ## Day81:
 
 - Revised Arrays: Revised the problem of Pow(x, n).
+
+## Day82:
+
+- Revised Arrays: Revised the problem of Sort an Array.
