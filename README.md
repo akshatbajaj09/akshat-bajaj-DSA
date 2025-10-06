@@ -493,3 +493,16 @@ All of them had these had the time complexity of O(n^2) but the question demande
 ## Day82:
 
 - Revised Arrays: Revised the problem of Sort an Array.
+
+## Day84:
+
+- Could not upload of Day83 due to some issue in laptop, so here it is:
+
+  ### Day 83:
+
+    - Revised Trees: Revised the problem of Delete Node in a BST.
+
+  ### Day84: 
+
+  Revised Arrays: Revised the problem of Sort Colors.
+  
