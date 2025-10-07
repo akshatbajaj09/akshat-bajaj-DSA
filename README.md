@@ -506,3 +506,6 @@ All of them had these had the time complexity of O(n^2) but the question demande
 
   Revised Arrays: Revised the problem of Sort Colors.
   
+## Day85:
+
+- Revised Trees: Revised Traversal (Preorder and Postorder).
