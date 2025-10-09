@@ -513,3 +513,7 @@ All of them had these had the time complexity of O(n^2) but the question demande
 ## Day86:
 
 - Revised Trees: Explored another method for postorder traversal.
+
+## Day87:
+
+- Worked more on Traversals in trees.
